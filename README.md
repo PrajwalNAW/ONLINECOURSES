@@ -252,13 +252,13 @@ Note: Place your screenshots in `docs/screenshots/` with the names below (or upd
 <img width="1920" height="1080" alt="Screenshot 2025-10-09 092725" src="frontend/public/Home.png" />
 
 - Available Courses grid (intro card + category cards)
-  ![Available Courses](docs/screenshots/courses-grid.png)
+<img width="1920" height="1080" alt="Screenshot 2025-10-09 092725" src="frontend/public/Available Courses.png" />
 
 - Profile (Referrer after friend purchased — shows earnings from a referral: +8 on friend signup and +10 on their first purchase)
-  ![Profile - Referrer coins](docs/screenshots/profile-referrer.png)
+<img width="1920" height="1080" alt="Screenshot 2025-10-09 092725" src="frontend/public/profile-referrer.png" />
 
 - Profile (Friend after signup — shows +4 coins reward from referral)
-  ![Profile - Friend signup coins](docs/screenshots/profile-friend.png)
+<img width="1920" height="1080" alt="Screenshot 2025-10-09 092725" src="frontend/public/profile-friend.png" />
 
 How this maps to backend logic:
 - When A refers B and B signs up using A’s code, A immediately gets +8 coins and B gets +4 coins (B also starts with +2 by default).
