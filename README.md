@@ -249,7 +249,7 @@ State management: lightweight auth store via Zustand (`frontend/store/auth.ts`).
 Note: Place your screenshots in `docs/screenshots/` with the names below (or update the paths).
 
 - Home hero
-  ![Home hero](docs/screenshots/home-hero.png)
+<img width="1920" height="1080" alt="Screenshot 2025-10-09 092725" src="frontend/public/Home.png" />
 
 - Available Courses grid (intro card + category cards)
   ![Available Courses](docs/screenshots/courses-grid.png)
